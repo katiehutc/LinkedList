@@ -1,5 +1,5 @@
 # This is a LinkedList class I created in high school (2022).
-
+### Data Structures & Algorithms
 ## Time Complexities:
 
 - Size: O(1)
